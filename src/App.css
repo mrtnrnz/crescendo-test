@@ -6,6 +6,7 @@
   text-align: center;
   flex-wrap: wrap;
   flex: 0 100%;
+  color: #ffffff;
 }
 
 @media (max-width: 768px) {

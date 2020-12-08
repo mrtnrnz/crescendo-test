@@ -1,7 +1,7 @@
 .product-list-container {
   border-radius: 10px;
   box-shadow: 0px 3px 10px #62657233;
-  background: #ffffff;
+  background: linear-gradient(#2c3e50, #bdc3c7);
   padding: 10px;
   width: 500px;
   height: 45em;
